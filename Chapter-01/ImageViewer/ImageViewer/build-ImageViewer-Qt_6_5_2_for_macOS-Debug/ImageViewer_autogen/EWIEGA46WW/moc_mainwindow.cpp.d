@@ -624,6 +624,7 @@
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/qos.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/time.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/QDebug \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/q20memory.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/q20type_traits.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qalgorithms.h \
@@ -650,9 +651,13 @@
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qcontainerinfo.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qcontainertools_impl.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qcontiguouscache.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qcoreapplication.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qcoreapplication_platform.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qcoreevent.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qdarwinhelpers.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qdatastream.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qdebug.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qeventloop.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qexceptionhandling.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qflags.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qfloat16.h \
@@ -663,11 +668,13 @@
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qglobalstatic.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qhash.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qhashfunctions.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qiodevice.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qiodevicebase.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qiterable.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qiterator.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qline.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qlist.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qlocale.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qlogging.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qmalloc.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qmap.h \
@@ -677,6 +684,7 @@
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qmetatype.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qminmax.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qnamespace.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qnativeinterface.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qnumeric.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qobject.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qobject_impl.h \
@@ -726,11 +734,13 @@
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qtversionchecks.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qtypeinfo.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qtypes.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qurl.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qutf8stringview.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qvariant.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qvarlengtharray.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qversiontagging.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/Headers/qxptype_traits.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/QAction \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qaction.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qbitmap.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qbrush.h \
@@ -739,26 +749,52 @@
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qfont.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qfontinfo.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qfontmetrics.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qguiapplication.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qguiapplication_platform.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qicon.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qimage.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qinputmethod.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qkeysequence.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qpaintdevice.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qpainter.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qpalette.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qpen.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qpicture.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qpixelformat.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qpixmap.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qpolygon.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qregion.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qrgb.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qrgba64.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qtextdocument.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qtextoption.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qtgui-config.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qtguiexports.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qtguiglobal.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qtransform.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtGui.framework/Versions/A/Headers/qwindowdefs.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QApplication \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QGraphicsScene \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QGraphicsView \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QLabel \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QMainWindow \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QMenuBar \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QStatusBar \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QToolBar \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qabstractscrollarea.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qapplication.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qframe.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qgraphicsscene.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qgraphicsview.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qlabel.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qmainwindow.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qmenu.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qmenubar.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qscrollarea.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qsizepolicy.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qstatusbar.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtabwidget.h \
+  /Users/tuhoo/Qt/6.5.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtoolbar.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtwidgets-config.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsexports.h \
   /Users/tuhoo/Qt/6.5.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsglobal.h \

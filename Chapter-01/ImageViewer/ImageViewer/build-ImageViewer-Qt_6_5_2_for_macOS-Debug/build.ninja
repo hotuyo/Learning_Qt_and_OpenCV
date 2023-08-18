@@ -190,7 +190,7 @@ build ImageViewer_autogen/timestamp ImageViewer_autogen/mocs_compilation.cpp | $
 #############################################
 # Phony custom command for CMakeFiles/ImageViewer_autogen_timestamp_deps
 
-build CMakeFiles/ImageViewer_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/ImageViewer_autogen_timestamp_deps: phony /Users/tuhoo/Qt/6.5.2/macos/./libexec/moc /Users/tuhoo/Qt/6.5.2/macos/./libexec/uic /Users/tuhoo/Qt/6.5.2/macos/lib/QtWidgets.framework/Versions/A/QtWidgets /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/QtCore
+build CMakeFiles/ImageViewer_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/ImageViewer_autogen_timestamp_deps: phony /Users/tuhoo/Qt/6.5.2/macos/./libexec/uic /Users/tuhoo/Qt/6.5.2/macos/./libexec/moc /Users/tuhoo/Qt/6.5.2/macos/lib/QtWidgets.framework/Versions/A/QtWidgets /Users/tuhoo/Qt/6.5.2/macos/lib/QtCore.framework/Versions/A/QtCore
 
 
 #############################################
