@@ -1,0 +1,10 @@
+# ninja log v5
+3	13	0	/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-01/ImageViewer/build-ImageViewer-Qt_6_5_2_for_macOS-Debug/CMakeFiles/cmake.verify_globs	44758aa6b26f9d96
+0	370	1692345114025729342	ImageViewer_autogen/timestamp	ab05bbc1e89586d7
+0	370	1692345114025729342	ImageViewer_autogen/mocs_compilation.cpp	ab05bbc1e89586d7
+0	370	1692345114025729342	/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-01/ImageViewer/build-ImageViewer-Qt_6_5_2_for_macOS-Debug/ImageViewer_autogen/timestamp	ab05bbc1e89586d7
+0	370	1692345114025729342	/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-01/ImageViewer/build-ImageViewer-Qt_6_5_2_for_macOS-Debug/ImageViewer_autogen/mocs_compilation.cpp	ab05bbc1e89586d7
+370	892	1692345114551553236	CMakeFiles/ImageViewer.dir/ImageViewer_autogen/mocs_compilation.cpp.o	bc17dca8875593e8
+370	903	1692345114561715733	CMakeFiles/ImageViewer.dir/main.cpp.o	2bc8cd9ffdea1ddd
+370	905	1692345114565110094	CMakeFiles/ImageViewer.dir/mainwindow.cpp.o	22dc2cbec6e5ea5d
+905	1036	1692345114696355521	ImageViewer.app/Contents/MacOS/ImageViewer	e50550a9a900aa19
