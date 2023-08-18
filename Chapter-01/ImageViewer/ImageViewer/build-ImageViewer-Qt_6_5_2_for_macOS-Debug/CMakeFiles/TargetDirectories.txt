@@ -1,0 +1,9 @@
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-01/ImageViewer/ImageViewer/build-ImageViewer-Qt_6_5_2_for_macOS-Debug/CMakeFiles/ImageViewer.dir
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-01/ImageViewer/ImageViewer/build-ImageViewer-Qt_6_5_2_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-01/ImageViewer/ImageViewer/build-ImageViewer-Qt_6_5_2_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-01/ImageViewer/ImageViewer/build-ImageViewer-Qt_6_5_2_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-01/ImageViewer/ImageViewer/build-ImageViewer-Qt_6_5_2_for_macOS-Debug/CMakeFiles/install.dir
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-01/ImageViewer/ImageViewer/build-ImageViewer-Qt_6_5_2_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-01/ImageViewer/ImageViewer/build-ImageViewer-Qt_6_5_2_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-01/ImageViewer/ImageViewer/build-ImageViewer-Qt_6_5_2_for_macOS-Debug/CMakeFiles/ImageViewer_autogen_timestamp_deps.dir
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-01/ImageViewer/ImageViewer/build-ImageViewer-Qt_6_5_2_for_macOS-Debug/CMakeFiles/ImageViewer_autogen.dir
