@@ -4,6 +4,7 @@
 #include <QMainWindow>
 #include <QGraphicsScene>
 #include <QGraphicsView>
+#include <QGraphicsPixmapItem>
 #include <QLabel>
 #include <QMenuBar>
 #include <QToolBar>
@@ -11,6 +12,12 @@
 #include <QAction>
 #include <QApplication>
 #include <QDebug>
+#include <QFileDialog>
+#include <QStringList>
+#include <QPixmap>
+#include <QMessageBox>
+#include <QRegularExpression>
+#include <QDir>
 
 class MainWindow : public QMainWindow
 {
@@ -18,7 +25,9 @@ class MainWindow : public QMainWindow
 
 private:
     void initUI();
-    void createrActions();  // Uniform configuration Actions.
+    void createrActions(); // Uniform configuration Actions.
+    void showImage(QString path);
+    void setupShortcuts();
 
 private:
     QMenuBar *menuBar;
@@ -31,17 +40,21 @@ private:
 
     QGraphicsScene *imageScene;
     QGraphicsView *imageView;
+    QGraphicsPixmapItem *currentImage;
 
     QStatusBar *mainStatusBar;
     QLabel *mainStatusLabel;
 
+    QString currentImagePath;
+
 private slots:
     void openImage();
-//    void zoomIn();
-//    void zoomOut();
-//    void prevImage();
-//    void nextImage();
-//    void saveAs();
+    void zoomIn();
+    void zoomOut();
+    void saveAs();
+
+    void prevImage();
+    void nextImage();
 
 private:
     QAction *openAction;
