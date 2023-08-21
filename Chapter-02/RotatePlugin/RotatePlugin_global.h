@@ -1,0 +1,12 @@
+#ifndef ROTATEPLUGIN_GLOBAL_H
+#define ROTATEPLUGIN_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(ROTATEPLUGIN_LIBRARY)
+#  define ROTATEPLUGIN_EXPORT Q_DECL_EXPORT
+#else
+#  define ROTATEPLUGIN_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // ROTATEPLUGIN_GLOBAL_H

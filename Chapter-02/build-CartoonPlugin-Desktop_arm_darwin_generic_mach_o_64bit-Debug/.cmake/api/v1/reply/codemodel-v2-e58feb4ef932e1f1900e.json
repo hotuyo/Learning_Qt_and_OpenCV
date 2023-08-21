@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CartoonPlugin",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CartoonPlugin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CartoonPlugin-Debug-e97b8ed63f1261411661.json",
+					"name" : "CartoonPlugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CartoonPlugin_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CartoonPlugin_autogen-Debug-c5d28970a70d6988520f.json",
+					"name" : "CartoonPlugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CartoonPlugin_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CartoonPlugin_autogen_timestamp_deps-Debug-8a719a817feacf723921.json",
+					"name" : "CartoonPlugin_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/build-CartoonPlugin-Desktop_arm_darwin_generic_mach_o_64bit-Debug",
+		"source" : "/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/CartoonPlugin"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

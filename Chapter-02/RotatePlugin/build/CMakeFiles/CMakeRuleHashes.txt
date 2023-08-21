@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+b3105ad2e6de46f7a391129d9f2d769e CMakeFiles/RotatePlugin_autogen

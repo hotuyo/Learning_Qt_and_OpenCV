@@ -1,0 +1,27 @@
+# ninja log v5
+0	590	1692523560086811031	ImageEditor_autogen/timestamp	89806bfcaafafa48
+0	590	1692523560086811031	ImageEditor_autogen/mocs_compilation.cpp	89806bfcaafafa48
+0	590	1692523560086811031	/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/ImageEditor/build-ImageEditor-Desktop_arm_darwin_generic_mach_o_64bit-MinSizeRel/ImageEditor_autogen/timestamp	89806bfcaafafa48
+0	590	1692523560086811031	/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/ImageEditor/build-ImageEditor-Desktop_arm_darwin_generic_mach_o_64bit-MinSizeRel/ImageEditor_autogen/mocs_compilation.cpp	89806bfcaafafa48
+590	1639	1692523561137229119	CMakeFiles/ImageEditor.dir/main.cpp.o	7144a7c83fd9992d
+590	1668	1692523561166634567	CMakeFiles/ImageEditor.dir/ImageEditor_autogen/mocs_compilation.cpp.o	a712b34e2d0e678b
+590	1913	1692523561411356140	CMakeFiles/ImageEditor.dir/mainwindow.cpp.o	c7115aef2289ad6c
+1913	2055	1692523561556696675	ImageEditor.app/Contents/MacOS/ImageEditor	12bb7cac26f9e32f
+12	42	1692524259837767039	ImageEditor_autogen/timestamp	89806bfcaafafa48
+12	42	1692524259837767039	ImageEditor_autogen/mocs_compilation.cpp	89806bfcaafafa48
+12	42	1692524259837767039	/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/ImageEditor/build-ImageEditor-Desktop_arm_darwin_generic_mach_o_64bit-MinSizeRel/ImageEditor_autogen/timestamp	89806bfcaafafa48
+12	42	1692524259837767039	/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/ImageEditor/build-ImageEditor-Desktop_arm_darwin_generic_mach_o_64bit-MinSizeRel/ImageEditor_autogen/mocs_compilation.cpp	89806bfcaafafa48
+47	1275	1692524261066142503	CMakeFiles/ImageEditor.dir/mainwindow.cpp.o	c7115aef2289ad6c
+1276	1398	1692524261191131748	ImageEditor.app/Contents/MacOS/ImageEditor	12bb7cac26f9e32f
+14	43	1692524367134938922	ImageEditor_autogen/timestamp	89806bfcaafafa48
+14	43	1692524367134938922	ImageEditor_autogen/mocs_compilation.cpp	89806bfcaafafa48
+14	43	1692524367134938922	/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/ImageEditor/build-ImageEditor-Desktop_arm_darwin_generic_mach_o_64bit-MinSizeRel/ImageEditor_autogen/timestamp	89806bfcaafafa48
+14	43	1692524367134938922	/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/ImageEditor/build-ImageEditor-Desktop_arm_darwin_generic_mach_o_64bit-MinSizeRel/ImageEditor_autogen/mocs_compilation.cpp	89806bfcaafafa48
+49	1315	1692524368402247041	CMakeFiles/ImageEditor.dir/mainwindow.cpp.o	c7115aef2289ad6c
+1315	1438	1692524368527158706	ImageEditor.app/Contents/MacOS/ImageEditor	12bb7cac26f9e32f
+9	38	1692524519011799020	ImageEditor_autogen/timestamp	89806bfcaafafa48
+9	38	1692524519011799020	ImageEditor_autogen/mocs_compilation.cpp	89806bfcaafafa48
+9	38	1692524519011799020	/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/ImageEditor/build-ImageEditor-Desktop_arm_darwin_generic_mach_o_64bit-MinSizeRel/ImageEditor_autogen/timestamp	89806bfcaafafa48
+9	38	1692524519011799020	/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/ImageEditor/build-ImageEditor-Desktop_arm_darwin_generic_mach_o_64bit-MinSizeRel/ImageEditor_autogen/mocs_compilation.cpp	89806bfcaafafa48
+43	1284	1692524520253858860	CMakeFiles/ImageEditor.dir/mainwindow.cpp.o	c7115aef2289ad6c
+1285	1412	1692524520383954721	ImageEditor.app/Contents/MacOS/ImageEditor	12bb7cac26f9e32f

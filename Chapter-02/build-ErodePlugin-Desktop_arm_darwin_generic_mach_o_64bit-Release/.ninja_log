@@ -1,0 +1,10 @@
+# ninja log v5
+0	525	1692521511231170344	ErodePlugin_autogen/timestamp	724ec3e25febb402
+0	525	1692521511231170344	/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/build-ErodePlugin-Desktop_arm_darwin_generic_mach_o_64bit-Release/ErodePlugin_autogen/timestamp	724ec3e25febb402
+0	525	1692521511231170344	/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/build-ErodePlugin-Desktop_arm_darwin_generic_mach_o_64bit-Release/ErodePlugin_autogen/mocs_compilation.cpp	724ec3e25febb402
+0	525	1692521511231170344	ErodePlugin_autogen/mocs_compilation.cpp	724ec3e25febb402
+526	1770	1692521512480264146	CMakeFiles/ErodePlugin.dir/erode_plugin.cpp.o	cd435648d6262276
+1915	1922	1692521512628098957	libErodePlugin.dylib	5b94a5a4967d0575
+525	1742	1692521512449713908	CMakeFiles/ErodePlugin.dir/ErodePlugin_autogen/mocs_compilation.cpp.o	7b0c4dcc9aadd355
+1770	1915	1692521512628098957	libErodePlugin.1.0.0.dylib	14a53439106f4f0b
+1915	1922	1692521512628098957	libErodePlugin.1.dylib	5b94a5a4967d0575

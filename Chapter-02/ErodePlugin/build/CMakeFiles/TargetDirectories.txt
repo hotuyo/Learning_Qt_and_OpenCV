@@ -1,0 +1,4 @@
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/ErodePlugin/build/CMakeFiles/ErodePlugin.dir
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/ErodePlugin/build/CMakeFiles/edit_cache.dir
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/ErodePlugin/build/CMakeFiles/rebuild_cache.dir
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/ErodePlugin/build/CMakeFiles/ErodePlugin_autogen.dir

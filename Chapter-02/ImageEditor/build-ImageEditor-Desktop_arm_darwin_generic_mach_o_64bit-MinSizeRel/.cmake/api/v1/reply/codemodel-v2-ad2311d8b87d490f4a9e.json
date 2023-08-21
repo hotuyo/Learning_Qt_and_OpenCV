@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-MinSizeRel-5fc4a324d55d858cb05a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ImageEditor",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ImageEditor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ImageEditor-MinSizeRel-5710439e67c0b6b34169.json",
+					"name" : "ImageEditor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ImageEditor_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ImageEditor_autogen-MinSizeRel-bc994f87905b9aa45459.json",
+					"name" : "ImageEditor_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ImageEditor_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ImageEditor_autogen_timestamp_deps-MinSizeRel-e5e901fff599a9f15d7e.json",
+					"name" : "ImageEditor_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/ImageEditor/build-ImageEditor-Desktop_arm_darwin_generic_mach_o_64bit-MinSizeRel",
+		"source" : "/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/ImageEditor/ImageEditor"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

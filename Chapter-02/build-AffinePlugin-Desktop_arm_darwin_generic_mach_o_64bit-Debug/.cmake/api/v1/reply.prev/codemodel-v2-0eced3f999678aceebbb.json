@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AffinePlugin",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AffinePlugin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AffinePlugin-Debug-a7513a9f3d46fc5e3d5b.json",
+					"name" : "AffinePlugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AffinePlugin_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AffinePlugin_autogen-Debug-3b47b472166a0d004fae.json",
+					"name" : "AffinePlugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AffinePlugin_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AffinePlugin_autogen_timestamp_deps-Debug-3edac6c1ac30118e7092.json",
+					"name" : "AffinePlugin_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/build-AffinePlugin-Desktop_arm_darwin_generic_mach_o_64bit-Debug",
+		"source" : "/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/AffinePlugin"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

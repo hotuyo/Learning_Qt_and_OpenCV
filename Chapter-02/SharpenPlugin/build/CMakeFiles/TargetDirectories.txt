@@ -1,0 +1,4 @@
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/SharpenPlugin/build/CMakeFiles/SharpenPlugin.dir
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/SharpenPlugin/build/CMakeFiles/edit_cache.dir
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/SharpenPlugin/build/CMakeFiles/rebuild_cache.dir
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/SharpenPlugin/build/CMakeFiles/SharpenPlugin_autogen.dir

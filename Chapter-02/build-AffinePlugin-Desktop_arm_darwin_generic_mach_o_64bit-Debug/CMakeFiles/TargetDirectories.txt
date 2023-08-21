@@ -1,0 +1,5 @@
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/build-AffinePlugin-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/AffinePlugin.dir
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/build-AffinePlugin-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/edit_cache.dir
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/build-AffinePlugin-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/build-AffinePlugin-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/AffinePlugin_autogen_timestamp_deps.dir
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-02/build-AffinePlugin-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/AffinePlugin_autogen.dir
