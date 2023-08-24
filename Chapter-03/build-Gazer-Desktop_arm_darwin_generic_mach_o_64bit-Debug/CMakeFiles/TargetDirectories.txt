@@ -1,0 +1,9 @@
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-03/build-Gazer-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/Gazer.dir
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-03/build-Gazer-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/edit_cache.dir
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-03/build-Gazer-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-03/build-Gazer-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/list_install_components.dir
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-03/build-Gazer-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/install.dir
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-03/build-Gazer-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/install/local.dir
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-03/build-Gazer-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/install/strip.dir
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-03/build-Gazer-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/Gazer_autogen_timestamp_deps.dir
+/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-03/build-Gazer-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/Gazer_autogen.dir

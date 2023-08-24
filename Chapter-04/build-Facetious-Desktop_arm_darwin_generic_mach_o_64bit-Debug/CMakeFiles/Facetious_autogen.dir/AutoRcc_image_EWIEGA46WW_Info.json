@@ -1,0 +1,24 @@
+{
+	"BUILD_DIR" : "/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-04/build-Facetious-Desktop_arm_darwin_generic_mach_o_64bit-Debug/Facetious_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-04/build-Facetious-Desktop_arm_darwin_generic_mach_o_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-04/build-Facetious-Desktop_arm_darwin_generic_mach_o_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-04/Facetious",
+	"CMAKE_SOURCE_DIR" : "/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-04/Facetious",
+	"INCLUDE_DIR" : "/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-04/build-Facetious-Desktop_arm_darwin_generic_mach_o_64bit-Debug/Facetious_autogen/include",
+	"INPUTS" : 
+	[
+		"/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-04/Facetious/image/mustache.jpg",
+		"/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-04/Facetious/image/mouse-nose.jpg",
+		"/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-04/Facetious/image/glasses.jpg"
+	],
+	"LOCK_FILE" : "/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-04/build-Facetious-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/Facetious_autogen.dir/AutoRcc_image_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "image" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_image.cpp",
+	"RCC_EXECUTABLE" : "/Users/tuhoo/Qt/6.5.2/macos/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-04/build-Facetious-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/Facetious_autogen.dir/AutoRcc_image_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/tuhoo/Desktop/Learn_Qt_OpenCV/Chapter-04/Facetious/image.qrc",
+	"VERBOSITY" : 0
+}
